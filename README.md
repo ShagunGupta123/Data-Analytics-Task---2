@@ -35,7 +35,7 @@ This project is based on sales data analysis using Microsoft Excel.
 
 
 ## Conclusion
-This project helped me understand data cleaning, analysis, and visualization techniques using Excel.# Sales Data Analysis Project
+This project helped me understand data cleaning, analysis, and visualization techniques using Excel.
 
 
 
